@@ -7,7 +7,7 @@
 * **Развивайтесь**. Посещайте различные курсы, вебинары, лекции, воркшопы. Старайтесь всегда учиться и совершенствоваться.
 
 # Задание 2
-<image src="https://drive.google.com/file/d/1EeVeNKt9oqV-6qq_SHG3JDu1ZheaJ8h8/view?usp=sharing" alt="Схема хобби">
+[Схема хобби](https://drive.google.com/file/d/1EeVeNKt9oqV-6qq_SHG3JDu1ZheaJ8h8/view?usp=sharing )
 
 # Задание 3
 https://docs.ozon.ru/global/launch/steps/work-on-ozon/?country=CN 
