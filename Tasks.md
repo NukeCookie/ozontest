@@ -13,7 +13,7 @@
 
 # Задание 3
 https://docs.ozon.ru/global/launch/steps/work-on-ozon/?country=CN 
-* Указать расшифровку аббревиатур rFBS, FBS, FBO: rFBS - real Fulfillment by Seller, FBS - Fulfillment by Seller, FBO - Fulfillment by Operator.
+* Указать расшифровку аббревиатур rFBS, FBS, FBO: rFBS — real Fulfillment by Seller, FBS — Fulfillment by Seller, FBO — Fulfillment by Operator.
 * Далее мы полностью отвечаем за сроки доставки и посылки, которые приняли.
 </br>-> Далее мы полностью отвечаем за принятые посылки и сроки их доставки.
 * FBO — схема продажи, при которой ваши товары хранятся на складах Ozon, и мы отвечаем за их сборку, упаковку и доставку покупателям своими силами.
