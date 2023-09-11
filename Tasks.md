@@ -9,6 +9,8 @@
 # Задание 2
 [Схема хобби](https://drive.google.com/file/d/1EeVeNKt9oqV-6qq_SHG3JDu1ZheaJ8h8/view?usp=sharing )
 
+[Схема оформления возврата](https://drive.google.com/file/d/1wt7qtZ9N_qbw4h1RJSuunFwR-ZA24NHb/view?usp=sharing)
+
 # Задание 3
 https://docs.ozon.ru/global/launch/steps/work-on-ozon/?country=CN 
 * Указать расшифровку сокращений rFBS, FBS, FBO.
