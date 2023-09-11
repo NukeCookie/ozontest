@@ -7,7 +7,7 @@
 * **Развивайтесь**. Посещайте различные курсы, вебинары, лекции, воркшопы. Ваш стиль и подход к фотографии будут постоянно меняться и развиваться. Старайтесь всегда учиться и совершенствоваться.
 
 # Задание 2
-![](https://drive.google.com/file/d/1EeVeNKt9oqV-6qq_SHG3JDu1ZheaJ8h8/view?usp=sharing )
+[Схема хобби](https://drive.google.com/file/d/1EeVeNKt9oqV-6qq_SHG3JDu1ZheaJ8h8/view?usp=sharing )
 
 # Задание 3
 https://docs.ozon.ru/global/launch/steps/work-on-ozon/?country=CN 
